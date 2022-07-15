@@ -1,13 +1,13 @@
 # Summer '22 Intro to Python Workshop
 
-Source code for an introductory Python programming workshop for UCF MAE Senior 
+Source code for an introductory Python programming workshop for UCF MAE Senior
 Design.
 
 ## Prerequisites
-An introductory programming class (e.g. Intro to C) or a basic understanding of 
+An introductory programming class (e.g. Intro to C) or a basic understanding of
 programming concepts.
 
-## Agenda 
+## Agenda
 
 **Scripting**
 - How to write and run a Python script
@@ -21,13 +21,13 @@ programming concepts.
 - Lists - Searching, Sorting
 - Dictionaries - O(1) lookups
 - Complex data structures
-- Loops on data structures 
+- Loops on data structures
 
 **Functions**
 - Defining and calling
 - Return values vs side effects
 - Parameters/arguments
-- Keyword args 
+- Keyword args
 - `if __name__ = "__main__"`
 
 **More complex concepts (time permitting)**
@@ -36,3 +36,9 @@ programming concepts.
 - File I/O
 - Pip and 3rd party libraries
 - MatPlotLib and NumPy
+
+
+## Third party
+
+Words list from https://github.com/powerlanguage/word-lists/blob/master/1000-most-common-words.txt
+
